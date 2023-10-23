@@ -10,7 +10,7 @@
 - 无需生成 html 文件
 - 众多主题 -->
 
-[GitHub]()
+[GitHub](https://github.com/ALANBANANA/ALANBANANA.github.io)
 [Get Started](README)
 
 <!-- 背景图片 -->
