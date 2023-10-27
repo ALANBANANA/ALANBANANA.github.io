@@ -361,3 +361,6 @@ class ArrayDeque:
 
 ```
 
+1. [开源内容]<https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/index.md>
+2. [电子网站]<https://datawhalechina.github.io/leetcode-notes/#/ch02/index.md>
+3. [hello算法]<https://www.hello-algo.com/>
