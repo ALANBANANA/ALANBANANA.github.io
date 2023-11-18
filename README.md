@@ -1,5 +1,5 @@
 # ALANBANANA's Blog
 
-> 一个将用于记录我的Notes和一些自己做的小项目
+ A blog used to store my note about the computer science
 
 [>>操作目录](guide)
