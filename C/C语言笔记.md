@@ -2921,10 +2921,10 @@ int main()
 {
 	struct person timmy = {"timmy", 1, 170.00, 65.00,};
     timmy = change();
-    printf("%s\n", per.name);
-    printf("%d\n", per.gender);
-    printf("%.2f\n", per.height);
-    printf("%.2f\n", per.weight);
+    printf("%s\n", timmy.name);
+    printf("%d\n", timmy.gender);
+    printf("%.2f\n", timmy.height);
+    printf("%.2f\n", timmy.weight);
     return 0;
 }
 ```
@@ -3349,21 +3349,10 @@ int main()
 print.h
 
 ```c
-void print2(const char *str)
-{
-	while(*str != '\0')
-    {
-		putchar(*str);
-        str++;
-    }
-}
-void print2(const char *str)
-{
-	//
-}
+void print(const char *str) // 这里实际只需要函数声明就好
 ```
 
-CONCLUSION: 简单来说#include“print.h”调用头文件，
+CONCLUSION: 简单来说#include“print.h”调用头文件，然后剩余的函数文件*.c*文件要在同一个目录内
 
 ### 更复杂的代码模块化
 
